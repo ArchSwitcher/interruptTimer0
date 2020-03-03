@@ -6,6 +6,8 @@
  */
 #include<xc.h>
 #include"config.h"
+#include"timer0.h"
+
 
 void Timer0_Init(void){
 
